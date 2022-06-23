@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boris (@aboriskaa!)
 - 👀 I’m interested in development, hiking, boxing, airsport
-- 🌱 I’m currently work on JS, React/redux
+- 🌱 I’m currently work on React, JavaScript, 
 - 💞️ I’m looking for a job as a React / JavaScript developer
 - 📫 How to reach me aboriska@yahoo.com
 <div id="header" align="center">
