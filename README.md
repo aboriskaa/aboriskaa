@@ -12,7 +12,7 @@ Open [Simple blog with Google authorization, data storage in Firebase](https://b
 
 ### ADAPTIVE PAGES (HTML/CSS):
 2. Grid + Flex + @Media 
-Open [Simple page (Clothing store)]([https://blogapp-850b9.web.app/](https://aboriskaa.github.io/gb_professional_html_css_coding/)) to view it in your browser.
+Open [Simple page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
 
 
 <div id="header" align="center">
