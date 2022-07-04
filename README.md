@@ -10,9 +10,11 @@
 1. React(JavaScript) + Mui + Firebase 
 Open [Simple blog with Google authorization, data storage in Firebase](https://blogapp-850b9.web.app/) to view it in your browser.
 
+### ADAPTIVE PAGES (HTML/CSS):
+2. Grid + Flex + @Media 
+Open [Simple page (Clothing store)]([https://blogapp-850b9.web.app/](https://aboriskaa.github.io/gb_professional_html_css_coding/)) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 <div id="header" align="center">
   <img src="https://www.zeluslugi.ru/upload/news/news20190426-2.gif" width="270px"/>
 </div>
