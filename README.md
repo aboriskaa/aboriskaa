@@ -11,8 +11,11 @@
 Open [Simple blog with Google authorization, data storage in Firebase](https://blogapp-850b9.web.app/) to view it in your browser.
 
 ### ADAPTIVE PAGES (HTML/CSS):
-2. Grid + Flex + @Media 
-Open [Simple page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
+1. Grid + Flex + @Media 
+Open [Main page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
+Open [Main page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
+2. Bootstrap 
+Open [Example of practice Bootstrap](https://aboriskaa.github.io/coursera_html_css_js/module3-solution/) to view it in your browser.
 
 
 <div id="header" align="center">
