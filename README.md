@@ -6,7 +6,7 @@
 
 
 
-### REACT PORTFOLIO:
+### (SPA) REACT PORTFOLIO:
 1. React(JavaScript) + Mui + Firebase 
 Open [Simple blog with Google authorization, data storage in Firebase](https://blogapp-850b9.web.app/) to view it in your browser.
 
