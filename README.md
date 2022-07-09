@@ -16,6 +16,8 @@ Open [Main page (Clothing store)](https://aboriskaa.github.io/gb_professional_ht
 or [Card page (Catalog store)](https://aboriskaa.github.io/gb_professional_html_css_coding/catalog/)
 2. Bootstrap 
 Open [Example of practice Bootstrap](https://aboriskaa.github.io/coursera_html_css_js/module3-solution/) to view it in your browser.
+3. Flex + @Media
+Open [Example of practice](https://aboriskaa.github.io/gb_html_css_base/) to view it in your browser.
 
 
 <div id="header" align="center">
