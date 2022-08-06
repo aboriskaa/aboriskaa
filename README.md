@@ -31,4 +31,5 @@ You can click the Preview link to take a look at your changes.
 ![image](https://www.codewars.com/users/aboriskaa/badges/large)
 <br>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aboriskaa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://am.linkedin.com/in/aboriskaa/en?trk=profile-badge">Boris A.</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
