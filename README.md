@@ -11,7 +11,7 @@
 Open [Simple blog with Google authorization, data storage in Firebase](https://blogapp-850b9.web.app/) to view it in your browser.
 
 
-### NODE JS PORTFOLIO: ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+### NODE.JS PORTFOLIO: ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 1. NodeJS
 Open to view it in your browser.
 
