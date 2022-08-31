@@ -20,6 +20,7 @@ Open [E-store](https://node-express-courses.herokuapp.com/) to view it in your b
 1. Grid + Flex + @Media 
 Open [Main page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
 or [Card page (Catalog store)](https://aboriskaa.github.io/gb_professional_html_css_coding/catalog/)
+Same on ![imagge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) open [Card page on Vue(Catalog store)](https://shop-vue-nodejs.herokuapp.com/)
 2. Bootstrap 
 Open [Example of practice Bootstrap](https://aboriskaa.github.io/coursera_html_css_js/module3-solution/) to view it in your browser.
 3. Flex + @Media
