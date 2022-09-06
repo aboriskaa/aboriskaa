@@ -17,7 +17,7 @@ Open [E-store](https://node-express-courses.herokuapp.com/) to view it in your b
 
 
 ### ADAPTIVE PAGES (HTML/CSS): ![imagge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![imagge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![imagge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-1. Grid + Flex + @Media 
+1. Grid + Flex + @Media + Vue
 Open [Main page (Clothing store)](https://aboriskaa.github.io/gb_professional_html_css_coding/) to view it in your browser.
 or [Card page (Catalog store on Vue with cart and search functionality)](https://aboriskaa.github.io/gb_professional_html_css_coding/catalog/)
 2. Bootstrap 
