@@ -12,8 +12,8 @@ Open [Simple blog with Google authorization, data storage in Firebase](https://b
 
 
 ### NODE.JS PORTFOLIO: ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-1. NodeJS (Express, MongoDB, Materialize CSS, Handlebars, Heroku)
-Open [E-store](https://node-express-courses.herokuapp.com/) to view it in your browser.
+1. NodeJS (Express, MongoDB, Materialize CSS, Handlebars, SendGrid API, Render Com)
+Open [E-store](https://nodejs-shop.onrender.com/) to view it in your browser.
 
 
 ### ADAPTIVE PAGES (HTML/CSS): ![imagge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![imagge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![imagge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
