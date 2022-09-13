@@ -26,7 +26,7 @@ Open [Example of practice Bootstrap](https://aboriskaa.github.io/coursera_html_c
 Open [Example of practice](https://aboriskaa.github.io/gb_html_css_base/) to view it in your browser.
 
 ### SOME INTERVIEW TASKS:
-1.  Cute test task from Genesis: https://genesis-test-task.onrender.com/ (A little more than To-Do)
+1.  Cute test task from Genesis: https://genesis-test-task.onrender.com/ (A little more than To-Do)))
 
 <!---
 <div id="header" align="center">
