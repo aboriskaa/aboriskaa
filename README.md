@@ -25,6 +25,10 @@ Open [Example of practice Bootstrap](https://aboriskaa.github.io/coursera_html_c
 3. Flex + @Media
 Open [Example of practice](https://aboriskaa.github.io/gb_html_css_base/) to view it in your browser.
 
+### SOME INTERVIEW TASKS:
+1.  Cute test task from Genesis: https://genesis-test-task.onrender.com/
+## A little more than To-Do)
+
 <!---
 <div id="header" align="center">
   <img src="https://www.zeluslugi.ru/upload/news/news20190426-2.gif" width="270px"/>
