@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boris (@aboriskaa!)
-- 🌱 I’m currently work on full-stack web dev (Laravel(MVC/PHP)/Vue/Inertia/MySQL/MariaDB), also used React JS NodeJS, JavaScript / TypeScript 
+- 🌱 I’m currently work on full-stack web dev MVC/PHP(Laravel, Symfony, Node.js) UI (Vue/React/AngularJS) DB (MySQL/MariaDB/MongoDB). 
 - 📫 How to reach me aboriska@yahoo.com
 
 <!---
